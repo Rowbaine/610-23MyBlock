@@ -1,0 +1,24 @@
+.DIV1{
+    background-color: white;
+}
+
+.img1{
+    height: 500px;
+}
+
+.img2{
+    height: 300px;
+}
+
+.background{
+    width: 1920px;
+    height: 1080px;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
